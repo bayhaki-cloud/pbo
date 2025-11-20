@@ -4,7 +4,7 @@ mahasiswa.set("002", "Budi");
 mahasiswa.set("003", "Vera");
 mahasiswa.set("004", "Putra");
 mahasiswa.set("002", "Vera");
-
+mahasiswa.set("002", "Baihaqy");
 console.log(mahasiswa.get("001")); // Output: Andi
 console.log(mahasiswa.get("002")); // Output: Andi
 
